@@ -1,5 +1,5 @@
 # BOT_OPTIMUS
-bot for collecting boxes
+bot for collecting boxes in a pc game
 
 installation:
 
