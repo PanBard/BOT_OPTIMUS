@@ -1,5 +1,5 @@
 # BOT_OPTIMUS
-bot for collecting boxes in a pc game
+bot for collecting boxes in a pc game with the help of cascade classifier from opencv 
 
 installation:
 
